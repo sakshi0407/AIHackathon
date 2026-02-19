@@ -58,7 +58,7 @@ ai-audit-engine-demo/
 ```bash
 pip install streamlit
 2️⃣ Run the App
-streamlit run streamlit_run_app.py
+streamlit run app.py
 3️⃣ Open in Browser
 The app will open automatically, or visit:
 
