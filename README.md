@@ -27,8 +27,9 @@ ai-audit-engine-demo/
 ## 🚀 Tech Stack
 
 - Python 3.10+  
-- Streamlit  
-- Pydantic  
+- Streamlit
+- Llama-3.2-1B-Instruct-Q4_0
+
 
 ---
 
@@ -50,7 +51,7 @@ ai-audit-engine-demo/
 - Structured JSON responses  
 
 ---
-
+- Download Llama-3.2-1B-Instruct-Q4_0 from GPT-4-All and place in one folder and change the path in ai_engine.py
 ## ▶️ How to Run Locally
 
 ### 1️⃣ Install Streamlit
